@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://quertystudio.com
+
+# Sitemaps
+Sitemap: https://quertystudio.com/sitemap.xml
